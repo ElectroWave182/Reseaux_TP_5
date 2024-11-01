@@ -1,0 +1,34 @@
+Tâche 1 : définition des paramètres de configuration globale d’un routeur
+---------
+
+a)
+"enable"
+
+b)
+"disable" et "exit"
+
+c)
+"configure terminal"
+
+
+Tâche 4 : enregistrement du fichier de configuration du routeur
+---------
+
+a)
+872 octets
+
+b)
+"5 $1$mERr$hx5rVt7rPNoS4wqbXKX7m0"
+
+c)
+Oui : "Le piratage contribue au perfectionnement des systemes de securite :)"
+
+d)
+Oui :
+"
+interface GigabitEthernet0/0
+ description Connexion au commutateur
+
+interface GigabitEthernet0/1
+ description Connexion a PC0
+"

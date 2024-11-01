@@ -1,0 +1,5 @@
+a et b)
+L'interface G0/2 de S2 est celle ayant le moins de priorité.
+Le protocole STP l'a donc désactivée pour éviter un cycle,
+nous prévenant ainsi de trames circulant indéfiniment
+dans le réseau.
